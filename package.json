@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "repository": "https://github.com/grandzero/web3-project.git",
-  "author": "bayramutkuhc <bayram.uzunlar@hackandcraft.com>",
+  "author": "Bayram Utku Uzunlar",
   "license": "MIT",
   "devDependencies": {
     "@nomiclabs/hardhat-ethers": "^2.0.2",
